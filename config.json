@@ -1,0 +1,7 @@
+{
+  "db_name": "sample_db",
+  "email_from_address": "douglas.duhaime@gmail.com",
+  "email_to_address": "douglas.duhaime@gmail.com",
+  "email_subject": "daily mongo backup",
+  "email_message": "here is the daily mongo backup"
+}
